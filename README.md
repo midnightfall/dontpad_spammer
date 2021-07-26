@@ -1,4 +1,3 @@
-# dontpad_spammer
 # Dontpad.com Spammer in Go
 
 Put your domains on "domains.txt" file (the script automatically finds all subdomains from your main domain)
